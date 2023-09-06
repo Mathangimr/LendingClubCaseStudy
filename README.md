@@ -49,11 +49,11 @@ Hence, company has to make wise decision before approving/rejecting the loan req
 
 ## Acknowledgements
 This project is solely contributed by the below authors.
-[@Mathangimr] and [@kiranp37]
+[@Mathangimr](https://github.com/Mathangimr/) and [@kiranp37](https://github.com/kiranp37/)
 
 
 ## Contact
-Created by [@Mathangimr] and [@kiranp37] - feel free to contact!
+Created by [@Mathangimr](https://github.com/Mathangimr/) and [@kiranp37](https://github.com/kiranp37/) - feel free to contact!
 
 
 <!-- Optional -->
