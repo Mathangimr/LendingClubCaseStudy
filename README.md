@@ -48,7 +48,7 @@ Hence, company has to make wise decision before approving/rejecting the loan req
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-This project is solely contributed by the below authors.
+This project is solely contributed by the authors
 [@Mathangimr](https://github.com/Mathangimr/) and [@kiranp37](https://github.com/kiranp37/)
 
 
